@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Website",
+  "description": "A beautiful, highly interactive, and developer portfolio displaying skill graphs, projects, education timeline, and a downloadable resume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
